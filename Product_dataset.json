@@ -1,0 +1,26 @@
+{
+  "store": "TechBazaar",
+  "products": [
+    {
+      "product_id": 101,
+      "name": "Wireless Earbuds",
+      "price": 1999,
+      "in_stock": true,
+      "ratings": [4, 5, 4, 5]
+    },
+    {
+      "product_id": 102,
+      "name": "Laptop Stand",
+      "price": 899,
+      "in_stock": true,
+      "ratings": [5, 5, 4]
+    },
+    {
+      "product_id": 103,
+      "name": "Mechanical Keyboard",
+      "price": 4499,
+      "in_stock": false,
+      "ratings": [4, 4, 5, 5, 4]
+    }
+  ]
+}
