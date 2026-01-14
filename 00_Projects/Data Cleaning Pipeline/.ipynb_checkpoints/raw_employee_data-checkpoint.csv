@@ -1,0 +1,6 @@
+EmployeeID,Name,Age,Gender,Department,Salary,JoiningDate
+101,Ali,25.0,male,IT,50000.0,2021-05-10
+102,Sara,,Female,HR,45000.0,2020/08/15
+103,John,30.0,Male,it,60000.0,2019-11-20
+104,Ayesha,28.0,FEMALE,Finance,,2022-01-05
+105,Rahul,35.0,unknown,HR,55000.0,

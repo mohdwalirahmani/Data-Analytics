@@ -1,0 +1,6 @@
+employeeid,name,age,gender,department,salary,joiningdate,tax,net_salary
+103,John,30.0,M,It,60000.0,2019-11-20,6000.0,54000.0
+105,Rahul,35.0,U,Hr,55000.0,Unknown,5500.0,49500.0
+104,Ayesha,28.0,F,Finance,52500.0,2022-01-05,5250.0,47250.0
+101,Ali,25.0,M,It,50000.0,2021-05-10,5000.0,45000.0
+102,Sara,29.0,F,Hr,45000.0,2020/08/15,4500.0,40500.0
